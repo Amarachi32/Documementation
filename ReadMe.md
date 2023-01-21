@@ -1,4 +1,4 @@
-# In-House Code Documentation for Bezao Training?????
+﻿# In-House Code Documentation for Bezao Training🤷‍♀️
 
 In this project,I created a training documentation  for a
   group of Trainee such that Classes, Methods,Properties, Enums etc. are annotated with a Document Attribute. This is a documented code so that each Trainee in the team can easily understand each steps taken and can in turn contribute to the repository. The Document Attribute takes one required parameter *"Description" and two optional Parameters "Input" and "Output"*
@@ -25,8 +25,8 @@ respectively. When **GetDocs()** is called it displays details of all codes docu
         public string Output { get; set; }
 ***
 
-## Software Development Summary??????
-* **Technology**: C#??
+## Software Development Summary😃👓👓
+* **Technology**: C#👓
 * **Framework**: .NET6
 * **Project Type**: Console
 * **IDE**: Visual Studio (Version 2022)
