@@ -3,9 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Documementation", "Documementation\Documementation.csproj", "{FD016FD7-F868-49E4-B230-F8ACD2D61F5B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Documementation", "Documementation\Documementation.csproj", "{FD016FD7-F868-49E4-B230-F8ACD2D61F5B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentLib", "DocumentLib\DocumentLib.csproj", "{31F4C6A8-B2D4-4821-8F8D-D6987BE86745}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DocumentLib", "DocumentLib\DocumentLib.csproj", "{31F4C6A8-B2D4-4821-8F8D-D6987BE86745}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{390E8D33-100D-4F32-A0C1-ACD087F473FC}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.md = ReadMe.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
